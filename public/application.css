@@ -1,0 +1,38 @@
+#hit {
+  float: left;
+  padding : 5px;
+}
+
+#stay {
+  float: left;
+  padding : 5px;
+}
+
+#player {
+  background-color: #00CF1F;
+  height: 320px;
+  width: 920px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+
+#dealer {
+  background-color: #FFFC4D;
+  width: 920px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+
+#name {
+  text-align: center;
+}
+
+#welcome {
+  width : auto;
+  padding : 10px;
+  text-align: center;
+  background: -webkit-radial-gradient(50% 50%, circle cover, #FFFB05, #FF3126); 
+  font-family: 'Codystar', cursive;
+}
